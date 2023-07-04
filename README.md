@@ -9,26 +9,36 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email your.email@example.com
 ```
 
-# Git clone
+## Git clone
 
-# Git status
+## Git status
 
-# Git branch
+## Git branch
 
-# git create branch  
+## git create branch  
 ``` git checkout -b branchname ```
 
-# git log
+## git log
 
-# git add filename or git add .
+## git diff
 
-# git commit -m "message name"
+## git add filename or git add .
 
-# git push origin branchname
+## git commit -m "message name"
 
-# create a PR
+## git revert
+
+## git reset filename
+
+## git reset -n 
+
+## git push origin branchname
+
+## create a PR
 
 # verify and merge
+
+
 
 
 
