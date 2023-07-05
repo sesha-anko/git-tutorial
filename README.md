@@ -31,7 +31,7 @@ Often the overview of the change is useful to get a feel of each step
 ## git diff
 
 ## git commit -a
-will show this. Once you’ve edited the files to resolve the conflicts,
+will show this. Once you’ve edited the files to resolve the conflicts and then we can add a message.
 
 ## git branch -d branchName
 
@@ -43,7 +43,21 @@ This command ensures that the changes in the branch are already in the current b
 
 delete the branch even the changes are not in the current branch
 
+## git stash push -m "index name" or git stash "index name"
+
 ## git add filename or git add .
+
+## git checkout .
+
+## git stash push -m "index name" or git stash "index name"
+
+## git stash list
+
+## git stash apply "index id" 
+
+example: git stash apply 1
+
+## git stash clear
 
 ## git commit -m "message name"
 
