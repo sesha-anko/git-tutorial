@@ -20,11 +20,29 @@ $ git config --global user.email your.email@example.com
 
 ## git log
 
+## git log -p
+
+If you also want to see complete diffs at each step, use
+
+##  git log --stat --summary
+
+Often the overview of the change is useful to get a feel of each step
+
 ## git diff
+
+## git commit -a
+will show this. Once you’ve edited the files to resolve the conflicts,
+
+## git branch -d branchName
+
+ delete branch name
+
 
 ## git add filename or git add .
 
 ## git commit -m "message name"
+
+## git merge branchName
 
 ## git revert
 
