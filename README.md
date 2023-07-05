@@ -35,8 +35,13 @@ will show this. Once you’ve edited the files to resolve the conflicts,
 
 ## git branch -d branchName
 
- delete branch name
+At this point you could delete the  branch with
+This command ensures that the changes in the branch are already in the current branch.
 
+
+##  git branch -D branchName
+
+delete the branch even the changes are not in the current branch
 
 ## git add filename or git add .
 
