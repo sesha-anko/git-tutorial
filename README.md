@@ -65,9 +65,13 @@ example: git stash apply 1
 
 ## git revert
 
+The git revert command is used for undoing changes to a repository's commit history. 
+
 ## git reset filename
 
-## git reset -n 
+Aftter git add . , it will reset changes to back
+
+## git reset --hard <SOME-COMMIT>
 
 ## git push origin branchname
 
